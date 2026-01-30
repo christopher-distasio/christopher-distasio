@@ -1,9 +1,14 @@
-# Welcome, SD Teachers and Learners!
+# Welcome, Developers, Teachers, and Learners!
 
 
+## Developers
+
+Take a look at what I'm developing here right now toward a more assistive future with AI and its connection to devices that can already make that happen.
+
+Also, feel free to take a look at my old account here for what I've built that's led me here: https://github.com/stazman.
 
 
-
+## Teachers and Learners
 
 On this site, look for lesson materials, tools, and advice related to whatever topic you are teaching to your SD students or learning needs. There are gists based on general topics pinned to this profile. Please share your own lesson materials, tools, and advice in comments that relate to a gist. You're also welcome to make your own gist after forking this repo, cloning it, and making a pull request.
 
