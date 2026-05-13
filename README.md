@@ -16,9 +16,10 @@ Built with:
 
 WCAG 2.1 AA compliant.
 
-Try the live demo — no account required.
+**[Try the live demo](https://www.speak2mefitness.com/login)** — no account required - or **[check out the project repo](https://github.com/christopher-distasio/s2m-fitness-monorepo)**.
 
 My thesis: voice-first isn't an accessibility add-on. It's universal design. The curb cut effect in software form.
+
 
 ## Where I'm Coming From
 
@@ -42,4 +43,4 @@ Fork, clone, pull request — contribute what's worked for you.
 
 ## Earlier Work
 
-My older projects live at **[stazman](https://github.com/stazman)** — the path that led here.
+My older projects live at **[stazman](https://github.com/stazman)**.
