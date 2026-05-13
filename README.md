@@ -32,7 +32,7 @@ That instinct shapes every technical decision I make.
 
 ## For Teachers and Developers Learning Together
 
-I write about what I'm learning at **Commcodia** — a blog about code, community, and the overlap between teaching and building.
+I write about what I'm learning at **[Commcodia](https://commcodia.com/)** — a blog about code, community, and the overlap between teaching and building.
 
 If you've taught yourself something worth sharing, that's the spirit of it.
 
@@ -42,4 +42,4 @@ Fork, clone, pull request — contribute what's worked for you.
 
 ## Earlier Work
 
-My older projects live at **stazman** — the path that led here.
+My older projects live at **[stazman](https://github.com/stazman)** — the path that led here.
