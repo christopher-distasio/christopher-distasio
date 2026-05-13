@@ -1,46 +1,45 @@
-# Welcome, Developers, Teachers, and Learners!
+# Hi, I'm Chris
 
+I'm a developer and former ESL teacher building accessible, voice-first applications with AI — and documenting everything I learn along the way.
 
-## Developers
+## What I'm Building
 
-Take a look at what I'm developing here right now toward a more assistive future with AI and its connection to devices that can already make that happen.
+### Speak2Me Fitness
 
-Also, feel free to take a look at my old account here for what I've built that's led me here: https://github.com/stazman.
+A voice-first food logging app designed for people who can't use standard calorie trackers.
 
+Built with:
+- FastAPI
+- Next.js
+- OpenAI Whisper + GPT-4o-mini
+- MongoDB
 
-## Teachers and Learners
+WCAG 2.1 AA compliant.
 
-On this site, look for lesson materials, tools, and advice related to whatever topic you are teaching to your SD students or learning needs. There are gists based on general topics pinned to this profile. Please share your own lesson materials, tools, and advice in comments that relate to a gist. You're also welcome to make your own gist after forking this repo, cloning it, and making a pull request.
+Try the live demo — no account required.
 
+My thesis: voice-first isn't an accessibility add-on. It's universal design. The curb cut effect in software form.
 
-## Where I'm Coming From:
+## Where I'm Coming From
 
-- It's second nature for most teachers to share what has worked for them to engage students as well as facilitate and foster their development.
+23 years teaching English as a Second Language across multiple countries.
 
-- We're all learning and some of us are either teaching each other or teaching ourselves. 
+2+ years building toward this.
 
-- So it just makes sense to have this attitude.
+The through-line is the same: meet people where they are, reduce friction, make complex things approachable.
 
-- We're swept up in constant revolutions of technology and ideas, and we're at our best when we share and help each other sort through all that's out there to find the best innovations and the best practices around them.
+That instinct shapes every technical decision I make.
 
-- I hope you find these materials and tools useful for you, and that they inspire you to make your own. I've taught software development skills for more than two years now, and I taught English as a Second Language all over the world for nearly two decades. Here's what you'll find in my repo. I've broken it down as simply as possble for you to peruse pleasantly.
+## For Teachers and Developers Learning Together
 
-You'll find many of these same topics addressed in [Commcodia](https://commcodia.com/), my SD teaching and learning blog.
+I write about what I'm learning at **Commcodia** — a blog about code, community, and the overlap between teaching and building.
 
-My work as a software developer not done in the context of teaching SD can be found at my [stazman](https://github.com/stazman) profile.
+If you've taught yourself something worth sharing, that's the spirit of it.
 
+Lesson materials, tools, and gists for software development learners are pinned to this profile.
 
-<!--
-**christopher-distasio/christopher-distasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fork, clone, pull request — contribute what's worked for you.
 
-Here are some ideas to get you started:
+## Earlier Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My older projects live at **stazman** — the path that led here.
